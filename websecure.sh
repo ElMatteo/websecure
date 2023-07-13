@@ -29,7 +29,7 @@ echo "$ttw" >> "$file"
 sed -i 's/KeepAliveTimeout 5/KeepAliveTimeout 10/' /etc/apache2/apache2.conf
 sed -i 's/Timeout 300/Timeout 30/' /etc/apache2/apache2.conf
 echo "MaxClients 300" >> "$file"
-echo "\e[1;33mApache2 is now secured !\e[0m"
+echo "\e[1;33mApache2 is now secured, up and running !\e[0m"
 
 #Restarting apache2 to apply moficiations
 systemctl restart apache2

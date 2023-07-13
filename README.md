@@ -1,6 +1,6 @@
 # websecure
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/ElMatteo/websecure/blob/main/img/2002fc06c2d544a184cb917dad8cebf7.png))
+![alt text](https://github.com/ElMatteo/websecure/blob/main/img/2002fc06c2d544a184cb917dad8cebf7.png)
 
 Repository for WebSecure bash script.
 
